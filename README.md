@@ -1,5 +1,5 @@
 
-# **Virtual Machine - 16-bit CPU Simulator**  
+# **KapoorVM - Virtual Machine (16-bit)**  
 *A minimalistic virtual machine (kapoorvm) designed for low-level programming and experimentation.*
 
 <div align="center">
