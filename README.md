@@ -52,7 +52,8 @@ I’m actively:
 ## 📂 **Project Structure**
 - **`src/`**: Source code for the VM.  
 - **`include/`**: Header files for modularity.  
-- **`tests/`**: Test cases for validating functionality.  
+- **Makefile**: Make file for simpler compiling.
+- **`tests/`**: Output Screenshots. 
 
 ## 🖥️ **Getting Started**
 ### **Prerequisites**
@@ -70,7 +71,7 @@ I’m actively:
    ```
 3. Compile the source code:
    ```bash
-   gcc -o kapoorvm src/kapoorvm.c
+   make
    ```
 4. Run the virtual machine:
    ```bash
