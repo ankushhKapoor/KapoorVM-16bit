@@ -52,7 +52,7 @@ I’m actively:
 ## 📂 **Project Structure**
 - **`src/`**: Source code for the VM.  
 - **`include/`**: Header files for modularity.  
-- **Makefile**: Make file for simpler compiling.
+- **`Makefile`**: Make file for simpler compiling.
 - **`tests/`**: Output Screenshots. 
 
 ## 🖥️ **Getting Started**
