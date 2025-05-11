@@ -62,11 +62,11 @@ I’m actively:
 ### **Build Instructions**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ankush1626/Virtual-Machine-16bit.git
+   git clone https://github.com/ankushhKapoor/KapoorVM-16bit.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Virtual-Machine-16bit
+   cd KapoorVM-16bit
    ```
 3. Compile the source code:
    ```bash
@@ -74,7 +74,7 @@ I’m actively:
    ```
 4. Run the virtual machine:
    ```bash
-   ./kaooorvm
+   ./kapoorvm
    ```
 
 ## 📚 **Usage**
